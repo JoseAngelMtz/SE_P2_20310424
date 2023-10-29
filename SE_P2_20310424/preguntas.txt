@@ -1,0 +1,10 @@
+¿tu personaje tiene el cabello azul?
+¿Tu personaje es mujer?
+¿Tu personaje es hombre?
+¿Tu personaje tiene el cabello rubio?
+¿Tu personaje tiene el cabello rosa?
+¿Tu personaje tiene el cabello cafe?
+¿Su peinado son 2 coletas?
+¿Tiene el cabello largo?
+¿Usa vestido?
+¿Usa short?

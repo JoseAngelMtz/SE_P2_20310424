@@ -1,0 +1,190 @@
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿Tu personaje es mujer?: Si 
+Pregunta #2: ¿tu personaje tiene el cabello azul?: No
+Pregunta #3: ¿Tu personaje tiene el cabello rubio?: Si
+Pregunta #4: ¿Tu personaje es hombre?: No
+Pregunta #5: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #6: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #7: ¿Tiene el cabello largo?: No 
+Pregunta #8: ¿Su peinado son 2 coletas?: No
+Pregunta #9: ¿Usa short?: Si 
+Pregunta #10: ¿Usa vestido?: No
+Pregunta #1: ¿Usa short?: Si
+Pregunta #2: ¿Usa vestido?: No 
+Pregunta #3: ¿Tu personaje es hombre?: Si
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: Si
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Tu personaje es mujer?: No
+Pregunta #10: ¿tu personaje tiene el cabello azul?: No 
+Pregunta #1: ¿Usa vestido?: No
+Pregunta #2: ¿Usa short?: No
+Pregunta #3: ¿Tu personaje tiene el cabello rubio?: No 
+Pregunta #4: ¿Tu personaje es hombre?: Si
+Pregunta #5: ¿Tu personaje tiene el cabello cafe?: No 
+Pregunta #6: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Tu personaje es mujer?: No
+Pregunta #10: ¿tu personaje tiene el cabello azul?: Si 
+Pregunta #1: ¿Tu personaje tiene el cabello cafe?: Si
+Pregunta #2: ¿Su peinado son 2 coletas?: No
+Pregunta #3: ¿Tiene el cabello largo?: No
+Pregunta #4: ¿Usa vestido?: Si
+Pregunta #5: ¿Usa short?: No 
+Pregunta #6: ¿tu personaje tiene el cabello azul?: No
+Pregunta #7: ¿Tu personaje es mujer?: Si
+Pregunta #8: ¿Tu personaje es hombre?: No
+Pregunta #9: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #10: ¿Tu personaje tiene el cabello rosa?: No //
+Pregunta #1: ¿Su peinado son 2 coletas?: No 
+Pregunta #2: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #3: ¿Usa vestido?: Si 
+Pregunta #4: ¿Tiene el cabello largo?: Si
+Pregunta #5: ¿tu personaje tiene el cabello azul?: No 
+Pregunta #6: ¿Usa short?: No 
+Pregunta #7: ¿Tu personaje es mujer?: Si
+Pregunta #8: ¿Tu personaje es hombre?: No
+Pregunta #9: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #10: ¿Tu personaje tiene el cabello rosa?: No //
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: Si
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: Si
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: Si
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: Si
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: Si
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: Si
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: Si
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: Si
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: Si
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: Si
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: Si
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: Si
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: Si
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: Si
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: Si
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: No
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: No
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: No
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: No
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: No
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: No
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: No
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: No
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: Si
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: Si
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: Si
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: Si
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: No
+Pregunta #2: ¿Tu personaje es mujer?: No
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: No
+Pregunta #8: ¿Tiene el cabello largo?: No
+Pregunta #9: ¿Usa vestido?: No
+Pregunta #10: ¿Usa short?: No
+Pregunta #1: ¿tu personaje tiene el cabello azul?: Si
+Pregunta #2: ¿Tu personaje es mujer?: Si
+Pregunta #3: ¿Tu personaje es hombre?: No
+Pregunta #4: ¿Tu personaje tiene el cabello rubio?: No
+Pregunta #5: ¿Tu personaje tiene el cabello rosa?: No
+Pregunta #6: ¿Tu personaje tiene el cabello cafe?: No
+Pregunta #7: ¿Su peinado son 2 coletas?: Si
+Pregunta #8: ¿Tiene el cabello largo?: Si
+Pregunta #9: ¿Usa vestido?: Si
+Pregunta #10: ¿Usa short?: No
